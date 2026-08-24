@@ -1,0 +1,15 @@
+{
+	"name": "sankaradf011",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29c5359c-c40d-42ef-a2dd-7c1aa9ec80c5",
+		"tenantId": "ccaead6c-565e-402f-bb50-b388e883c81a"
+	}
+}
